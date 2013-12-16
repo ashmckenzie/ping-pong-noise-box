@@ -1,3 +1,7 @@
+a.btn {
+  width: 100%;
+}
+
 a.btn span.hotkey {
   font-size: 0.8em;
 }

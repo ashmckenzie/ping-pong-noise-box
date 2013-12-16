@@ -1,4 +1,6 @@
 var buttons;
+var sounds = [
+];
 
 $(document).ready(function() {
 
